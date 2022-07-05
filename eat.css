@@ -1,0 +1,193 @@
+body {
+    margin: 0;
+    font-family: 'Bebas Neue', cursive;
+}
+body p{
+    color: rgb(86, 101, 68);
+    line-height: 30px;
+}
+
+.firstone {
+    display: flex;
+ 
+}
+
+.divone {
+    width: 50%;
+    padding-left: 80px;
+    padding-top: 40px;
+    margin-right: 5%;
+}
+
+.divtwo {
+    width: 50%;
+}
+
+.divtwo img {
+    width: 85%;
+    /*padding-top: 100px;*/
+    padding-left: 40px;
+
+}
+
+.divone h1 {
+    color: #d64a1f;
+    font-size: 50px;
+    text-shadow: 10px 10px 14px black;
+
+}
+
+.divone h3 {
+    font-size: 30px;
+    color: orange;
+    text-shadow: 5px 5px 5px black;
+
+}
+
+.divone p {
+    margin-bottom: 30px;
+}
+
+.divone a {
+    text-decoration: none;
+    background-image: linear-gradient(#d12017, orange);
+    color: aliceblue;
+    padding: 8px 18px;
+    box-shadow: 10px 10px 20px black;
+    font-size: 20px;
+
+}
+
+.secondone {
+    display: flex;
+    background-image: url(images/shapes/7.png);
+    background-repeat: no-repeat;
+    background-position: left;
+    background-size: cover;
+}
+
+.divthree {
+    width: 50%;
+    padding: 40px 5px 0px 60px;
+}
+
+
+.divfour {
+    width: 50%;
+    padding-top: 130px;
+    padding-right: 100px;
+    text-align: justify;
+
+}
+
+
+.divthree img{
+    width: 85%;
+}
+.divfour h1 {
+    color: #d64a1f;
+    font-size: 50px;
+    text-shadow: 10px 10px 14px black;
+
+}
+.divfour a {
+    text-decoration: none;
+    background-image: linear-gradient(#d12017, pink);
+    color: aliceblue;
+    padding: 8px 18px;
+    box-shadow: 10px 10px 20px black;
+    font-size: 20px;
+    
+
+}
+.divfour p{
+    margin-bottom: 30px;
+}
+.thirdone{
+    text-align: center;
+    width: 100%;
+}
+.thirdone h2{
+    color: #c74c27;
+    font-size: 50px;
+    text-shadow: 10px 10px 14px black;
+
+}
+span{
+    color: orange;
+    font-weight: 800;
+}
+.divlast{
+    display: flex;
+    justify-content: center;
+    margin-top: 70px;
+    margin-bottom: 50px;
+
+
+}
+
+.divfive{
+    width: 20%;
+    box-shadow: 10px 1px 20px gray;
+    border-radius: 14px;
+    padding-top: 14px;
+
+}
+.divfive img{
+    width: 90%;
+}
+.divsix{
+    width: 20%;
+    margin: 0 20px 0 20px;
+    box-shadow: 10px 1px 20px gray;
+    border-radius: 14px;
+    padding-top: 14px;
+}
+.divsix img{
+    width: 90%;
+}
+.divseven{
+    width: 20%;
+    box-shadow: 10px 1px 20px gray;
+    border-radius: 14px;
+    padding-top: 14px;
+}
+.divseven img{
+    width: 90%;
+}
+.same h3{
+    color:#b04423;
+    font-size: 20px;
+    font-weight: 700;
+}
+.againlast{
+    display: flex;
+    justify-content: center;
+    box-shadow: 15px 2px 20px gray;
+    margin: 30px 140px 60px 140px;
+    padding-bottom: 15px;
+    background-image:linear-gradient(#d12017, pink);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.fourthone small{
+    color: rgb(108, 97, 97);
+    
+}
+.special{
+    margin: 0 150px 0 150px;
+}
+.lasttwo h1{
+    font-size: 50px;
+    color:#fbf7f6;
+    text-shadow: 10px 7px 23px black;
+}
+footer p{
+    text-align: center;
+    word-spacing: 6px;
+    letter-spacing: 5px;
+    margin-top: 150px;
+    color: black;
+}
+
+
